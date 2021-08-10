@@ -2,4 +2,4 @@
 
 ### Lab Code
 ### Assignment
-### Use ireshark to analyze packets
+### Use Wireshark to analyze packets
